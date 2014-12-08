@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listarrays">
+        <item >生气</item>
+        <item >酷</item>
+        <item >哭</item>
+        <item >尴尬</item>
+        <item >肯指头</item>
+        <item >高兴</item>
+        <item >打啵</item>
+        <item >大笑</item>
+        <item >闭嘴</item>
+        <item >闭嘴</item>
+        <item >悲伤</item>
+        <item >惊讶</item>
+        <item >卖萌</item>
+        <item >不理解</item>
+        <item >不明白</item>
+        <item >cd</item>
+        <item >大吼</item>
+    </string-array>
+</resources>
